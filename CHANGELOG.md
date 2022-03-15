@@ -1,8 +1,9 @@
 # CHANGELOG
 
-## 3.6.0 - 2020-09-14
+## 3.7.0 - 2022-03-08
 
-* Adds support for Laravel 8.0
+* Adds support for Laravel 9.0
+* Moves Travis CI tests to GitHub actions
 
 ## 3.5.0 - 2020-03-11
 
